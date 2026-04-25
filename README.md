@@ -6,7 +6,6 @@
 
 ## 🚀 About Me
 - 🔭 Currently building an **AI-Based Video to Text & Notes Generator**
-- 🌱 Learning **Cloud Deployment & Advanced AI/ML**
 - 💡 Passionate about building practical tools that solve real problems
 - 🏆 JPMorgan Chase Virtual Software Engineering Intern (Forage)
 
